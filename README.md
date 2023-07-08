@@ -1,4 +1,4 @@
-# FakeNewsDetection
+# Fake News Detection
 
 In this project, we have proposed an ensemble classification model for detection of the fake news that has achieved a better accuracy compared to the state-of-the-art. 
 
